@@ -199,15 +199,13 @@ def comercial(data):
 if __name__ == "__main__":
     title = 'House Rockets App'
     # ETL
-    # EXTRATION
+    # Extration
     path = 'kc_house_data.csv'
     url = 'https://opendata.arcgis.com/datasets/83fc2e72903343aabff6de8cb445b81c_2.geojson'
-
-    # LOAD
     data = get_data(path)
     geofile = get_geofile( url )
 
-    # TRANSFORMATION
+    # Transformation
     data = set_feature(data)
     overview_data (data)
 
