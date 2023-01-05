@@ -3,7 +3,8 @@
 
 - (in process)
 ## Descrição
-- A empresa fictícia House Rockets, que atua com o ramo imobiliário, tem por objetivo através da análise de dados selecionar os melhores imóveis para negociação, com intuito de maximizar os lucros tanto na venda quanto na compra de imóveis. Então o CEO solicitou aos analistas que criassem um método para acessar o dashboard pelo celular, e onde o mesmo pudesse selecionar imóveis de diferentes regiões, de diferentes valores, entre outras requisições.
+- A empresa House Rockets, que atua com o ramo imobiliário, encabeçada pelo seu CEO tem por objetivo através da análise de dados selecionar os melhores imóveis para negociação, com intuito principal de maximizar os lucros tanto na venda quanto na compra de imóveis.
+- Então o CEO solicitou aos analistas que criassem um método para acessar o dashboard pelo celular, e onde o mesmo pudesse selecionar imóveis de diferentes regiões, de diferentes valores, entre outras requisitos.
 
 ## Dataset
 - O dataset utilizado foi encontrado no link: https://www.kaggle.com/datasets/harlfoxem/housesalesprediction
