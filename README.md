@@ -33,10 +33,6 @@ Variável | Definição
 |sqft_living15 | O tamanho médio em pés quadrados do espaço interno de habitação para as 15 casas mais próximas.|
 |sqft_lot15 | Tamanho médio dos terrenos em metros quadrados para as 15 casas mais próximas.|
 
-## Ferramentas Utilizadas:
-- Python 3.9.7 
-- Jupyter Notebook
-- PyCharm
 
 ## Planejamento da Solução do Problema de Negócio:
 - Coleta do dataset - Kaggle
@@ -45,6 +41,11 @@ Variável | Definição
 - Modelagem e processamento de dados
 - Transformação e criação de variáveis
 - Exploração dos dados
+
+## Ferramentas Utilizadas:
+- Python 3.9.7 
+- Jupyter Notebook
+- PyCharm
 
 ## Entrega:
 - Visualização utilizando um aplicativo no StreamLit
