@@ -1,6 +1,7 @@
 # Projeto: House Rockets Insights de Negócio
 ![image](https://user-images.githubusercontent.com/117123482/210768853-80756bef-8bfd-4590-8257-c0365cef8453.png)
 
+- (in process)
 ## Descrição
 - A empresa fictícia House Rockets, que atua com o ramo imobiliário, tem por objetivo através da análise de dados selecionar os melhores imóveis para negociação, com intuito de maximizar os lucros tanto na venda quanto na compra de imóveis. Então o CEO solicitou aos analistas que criassem um método para acessar o dashboard pelo celular, e onde o mesmo pudesse selecionar imóveis de diferentes regiões, de diferentes valores, entre outras requisições.
 
